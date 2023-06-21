@@ -1,2 +1,2 @@
-# XHaskell-About
-An About Window for XHaskell made with FLTK
+# XHaskell-Settings
+A Settings Window for XHaskell made with FLTK and TinyXML2
